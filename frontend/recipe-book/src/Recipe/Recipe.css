@@ -1,0 +1,21 @@
+.Recipe {
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    width: 20%;
+    height: 300px;
+    margin: 16px auto;
+    text-align: center;
+    flex: 0 0 25%;
+}
+
+.Recipe img {
+    height: 60%;
+    width: 100%;
+    position: relative;
+}
+
+.Desc {
+    height: 40%;
+    position: relative;
+    overflow: hidden;
+}

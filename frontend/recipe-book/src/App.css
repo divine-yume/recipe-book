@@ -5,3 +5,10 @@
 .Ingredients {
   display: inline-flex;
 }
+
+.Recipes {
+  width: 60%;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+}
