@@ -15,12 +15,12 @@ class App extends Component {
     ],
     // For now we just hard code it
     recipes: [
-      { name: "recipe1", desc: "This is very long text for the purpose of replacing the desc for now", img: "../Assets/food.jpg" },
-      { name: "recipe2", desc: "This is very long text for the purpose of replacing the desc for now", img: "../Assets/food.jpg" },
-      { name: "recipe3", desc: "This is very long text for the purpose of replacing the desc for now", img: "../Assets/food.jpg" },
-      { name: "recipe4", desc: "This is very long text for the purpose of replacing the desc for now", img: "../Assets/food.jpg" },
-      { name: "recipe5", desc: "This is very long text for the purpose of replacing the desc for now", img: "../Assets/food.jpg" },
-      { name: "recipe6", desc: "This is very long text for the purpose of replacing the desc for now", img: "../Assets/food.jpg" },
+      { name: "recipe1", desc: "This is very long text for the purpose of replacing the desc for now", img: "/images/food.jpg" },
+      { name: "recipe2", desc: "This is very long text for the purpose of replacing the desc for now", img: "/images/food.jpg" },
+      { name: "recipe3", desc: "This is very long text for the purpose of replacing the desc for now", img: "/images/food.jpg" },
+      { name: "recipe4", desc: "This is very long text for the purpose of replacing the desc for now", img: "/images/food.jpg" },
+      { name: "recipe5", desc: "This is very long text for the purpose of replacing the desc for now", img: "/images/food.jpg" },
+      { name: "recipe6", desc: "This is very long text for the purpose of replacing the desc for now", img: "/images/food.jpg" },
     ]
   }
 
